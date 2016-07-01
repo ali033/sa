@@ -246,16 +246,15 @@ function create_config( )
     An Advanced Anti Spam Bot Forked On TeleSeed
     
     Develpoed By:
-    @sina7sk
+    @ali_kmv
     Manager:
-    @yellowhat
+    @ali_kmv
     Founder:
-    @amirho3in
+    @ali_kmv
     
     Special Thank To:
-    Mehr Pouya
-    Arman
-    IM/-\N
+    maa
+    kia
     Creed Is Dead
     
 ]],
